@@ -1,4 +1,4 @@
-## n8n-SMTP-sent-01
+## n8n-SMTP-sent-Automation
 
 [n8n Setup](https://github.com/Omarmdwasimuddin/n8n-Self-Host-Setup)
 
