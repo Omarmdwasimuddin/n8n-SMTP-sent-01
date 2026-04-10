@@ -20,4 +20,5 @@
 #### Click--- Set up credential
 ![](https://imgur.com/T4Xklg3.png)
 
-#### [App passwords](https://github.com/Omarmdwasimuddin/Google-App-Password)
+#### SMTP account create koro. ekhane password hobe [App passwords](https://github.com/Omarmdwasimuddin/Google-App-Password). save button click koro.
+![](https://imgur.com/fVGqZ6k.png)
