@@ -16,3 +16,6 @@
 
 #### Click--- Send an Email
 ![](https://imgur.com/eGSjUg9.png)
+
+#### Click--- Set up credential
+![](https://imgur.com/T4Xklg3.png)
