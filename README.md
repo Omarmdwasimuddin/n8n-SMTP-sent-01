@@ -25,3 +25,6 @@
 
 #### Set up credential complete koro and click koro-- Execute step
 ![](https://imgur.com/NcM6S1A.png)
+
+#### Publish korle mechanizm cholte thakbe.
+![](https://imgur.com/2xcxp6y.png)
