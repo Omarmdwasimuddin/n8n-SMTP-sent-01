@@ -1,5 +1,7 @@
 ## n8n-SMTP-sent-01
 
+[n8n Setup](https://github.com/Omarmdwasimuddin/n8n-Self-Host-Setup)
+
 #### Click open nodes panel
 ![](https://imgur.com/AR2W8SL.png)
 
